@@ -26,7 +26,7 @@ Tipo de acciónTipo de usuarioServ. (min)Llegada (min)ProbabilidadRetiroRápido1
 🚀 Cómo ejecutar
 En Google Colab (recomendado)
 
-Abrir el archivo Problema_Bancario.ipynb directamente en Google Colab
+Abrir el archivo Problema_Bancario.ipynb directamente en Google Colab https://colab.research.google.com/drive/1kXiRrVSVu4dUKzqKA6fJUB-8y3Ruwd9f?usp=sharing
 Ejecutar la celda única con Ctrl + Enter o el botón ▶
 Los resultados, gráficas y CSVs se generan automáticamente
 
